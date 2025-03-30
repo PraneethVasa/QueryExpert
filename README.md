@@ -50,7 +50,8 @@ streamlit run app.py
 | *"Sales by store location?"* | `SELECT store_location, SUM(total_price) AS total_revenue FROM sales GROUP BY store_location;` |
 
 ## Screenshots
-(Include relevant screenshots of the UI and visualizations)
+![Chatbot UI](asset/pic1.png)
+![Query Result Visualization](asset/pic2.png)
 
 ## Contribution
 1. Fork the repository & clone locally.
@@ -59,10 +60,9 @@ streamlit run app.py
 4. Push to the branch: `git push origin feature-name`.
 5. Open a Pull Request.
 
-## License
-This project is licensed under the MIT License.
+
 
 ---
 **Author:** Praneeth Vasa  
-GitHub: [github.com/YourRepo](https://github.com/YourRepo/QueryExpert)  
-LinkedIn: [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)
+GitHub: [github.com/YourRepo](https://github.com/PraneethVasa/QueryExpert)  
+LinkedIn: [linkedin.com/in/YourProfile](https://linkedin.com/in/vasapurnapraneeth)
